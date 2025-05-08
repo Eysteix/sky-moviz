@@ -47,7 +47,7 @@ var swiper = new Swiper('.swiper', {
   });
 
   const Ongoing = async () =>{
-    const api =  await fetch("http://127.0.0.1:5500/Js/all.json",{cache:"default"});
+    const api =  await fetch("https://eysteix.github.io/sky-moviz/Js/all.json",{cache:"default"});
     const  data = await api.json();
 
     const home = document.querySelector(".on-going >.swiper-wrapper");
@@ -73,7 +73,7 @@ Ongoing();
 
 
   const data = async () =>{
-    const api =  await fetch("http://127.0.0.1:5500/Js/all.json",{cache:"default"});
+    const api =  await fetch("https://eysteix.github.io/sky-moviz/Js/all.json",{cache:"default"});
     const  data = await api.json();
 
     const home = document.querySelector(".anime_cards");
