@@ -1,0 +1,262 @@
+@import url("assets.css");
+body {
+  background-color: rgb(7, 15, 24);
+  overflow-x: hidden;
+  color: white;
+}
+
+main {
+  margin: 0 auto;
+  width: 90%;
+  max-width: 120rem;
+  overflow: hidden;
+}
+main .hero {
+  width: 100%;
+  overflow: hidden;
+}
+main .hero .swiper {
+  width: 90%;
+  height: 350px;
+}
+main .hero .swiper-slide {
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.854), transparent), url("../Images/img (59).jpg");
+  border-radius: 10px;
+  padding: 20px;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: baseline;
+  text-align: left;
+}
+main .hero .swiper-slide .text {
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  padding: 10px;
+  left: 10px;
+  font-size: 16px;
+  font-weight: 5em;
+  color: rgb(255, 255, 255);
+}
+main .hero .swiper-slide .text h1 {
+  font-size: 1.2rem;
+  color: white;
+}
+main .hero .swiper-slide .text button {
+  padding: 3px;
+  align-items: center;
+  gap: 10px;
+  background-color: transparent;
+  width: 120px;
+  text-align: center;
+  justify-content: center;
+  border: none;
+  background: rgb(32, 161, 212);
+  color: white;
+  display: flex;
+}
+main .hero .swiper-slide .text button i.fa-play-circle, main .hero .swiper-slide .text button svg.fa-play-circle {
+  color: rgb(255, 255, 255);
+  fill: blue;
+}
+main .hero .swiper-slide:nth-child(2) {
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.854), transparent), url("../Images/img (1).png") center;
+  background-size: cover;
+}
+main .hero .swiper-slide:nth-child(3) {
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.854), transparent), url("../Images/img (2).jpg") center;
+  background-size: cover;
+}
+main .hero .swiper-slide:nth-child(4) {
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.854), transparent), url("../Images/Cartoons/ct (7).jpg") center;
+  background-size: cover;
+}
+main .hero .swiper-slide:nth-child(5) {
+  background: linear-gradient(to top, rgba(4, 5, 17, 0.854), transparent), url("../Images/Cartoons/ct (6).jpg") center;
+  background-size: cover;
+}
+main .top-picks {
+  width: 100%;
+  padding: 50px 0;
+}
+main .top-picks h1 {
+  border-left: 5px solid rgb(36, 120, 253);
+  padding: 5px;
+  padding-left: 10px;
+  text-transform: uppercase;
+  margin: 20px 50px;
+  font-size: 1.2rem;
+}
+main .top-picks .swiper-wrapper {
+  width: 70%;
+}
+main .top-picks .swiper-slide {
+  width: 200px;
+  height: 250px;
+}
+main .top-picks .swiper-slide img {
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+  height: 100%;
+  border-radius: 10px;
+}
+main .top-picks .swiper-slide h3 {
+  font-size: 1rem;
+}
+main .new-anime {
+  width: 100%;
+  margin: 20px auto;
+  padding: 20px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+main .new-anime h1 {
+  display: flex;
+  text-align: start;
+  width: 100%;
+  border-left: 5px solid rgb(30, 191, 255);
+  align-items: start;
+  justify-content: start;
+  text-transform: capitalize;
+  font-weight: bolder;
+  padding-left: 10px;
+  margin: 20px 5px;
+  gap: 10px;
+}
+main .new-anime button {
+  padding: 3px;
+  color: white;
+  background-color: rgb(30, 191, 255);
+  text-align: center;
+  width: 130px;
+  border-radius: 10px;
+  border: none;
+  font-size: 1.1em;
+  cursor: pointer;
+}
+main .new-anime button:active {
+  transform: scale(90%);
+}
+main .new-anime .anime_cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0px;
+}
+main .new-anime .anime_cards .anime_card {
+  position: relative;
+  height: 350px;
+  width: 200px;
+  z-index: -1;
+  border-radius: 20px;
+}
+main .new-anime .anime_cards .anime_card:hover {
+  background-color: grey;
+}
+main .new-anime .anime_cards .anime_card img {
+  position: relative;
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 20px;
+  -o-object-position: center;
+     object-position: center;
+  height: 70%;
+  transition: 1s linear;
+  filter: brightness(-20px);
+  z-index: -1;
+}
+main .new-anime .anime_cards .anime_card img:hover {
+  filter: blur(2px);
+}
+main .new-anime .anime_cards .anime_card h2 {
+  font-size: 1rem;
+  color: rgb(97, 94, 253);
+}
+main .on-going {
+  width: 100%;
+}
+main .on-going .swiper-wrapper {
+  width: 100%;
+}
+main .on-going .swiper-wrapper .on_going_slide.swiper-slide {
+  display: flex;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 200;
+  background-color: rgba(2, 3, 15, 0.344);
+  -webkit-backdrop-filter: blur(30px);
+  backdrop-filter: blur(30px);
+}
+nav input {
+  background-image: url("../Images/search.png");
+  background-size: 30px;
+  background-repeat: no-repeat;
+  background-position: 1% 40%;
+  align-items: center;
+  background-color: rgba(21, 27, 32, 0.534);
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: 12px 15px 10px 40px;
+  border-radius: 10px;
+}
+nav ul {
+  display: flex;
+  gap: 2px;
+  font-size: 14px;
+}
+nav ul li {
+  width: 100%;
+}
+nav ul li.active a {
+  border-bottom: 2px solid rgb(93, 0, 255);
+  border-width: 1px;
+}
+nav button {
+  padding: 10px;
+}
+
+@media screen and (min-width: 900px) {
+  nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  nav input {
+    padding: 2px 12px 2px 40px;
+    height: 40px;
+    width: 40%;
+  }
+  nav ul li {
+    padding: 10px;
+  }
+  .hero {
+    width: 100%;
+  }
+  .hero .swiper {
+    height: 400px;
+  }
+  .hero .swiper .swiper-wrapper .swiper-slide .text h1 {
+    font-size: 2rem;
+  }
+}/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,22 @@
+[
+    { "title": "Tom and Jerry", "image": "img (1).jpg" },
+    { "title": "SpongeBob SquarePants", "image": "img (2).jpg" },
+    { "title": "Looney Tunes", "image": "img (3).jpg" },
+    { "title": "The Simpsons", "image": "img (4).jpg" },
+    { "title": "Mickey Mouse", "image": "img (5).jpg" },
+    { "title": "Adventure Time", "image": "img (6).jpg" },
+    { "title": "Pokémon", "image": "img (7).jpg" },
+    { "title": "Dragon Ball", "image": "img (8).jpg" },
+    { "title": "Teenage Mutant Ninja Turtles", "image": "img (9).jpg" },
+    { "title": "Avatar: The Last Airbender", "image": "img (10).jpg" },
+    { "title": "Scooby-Doo", "image": "img (11).jpg" },
+    { "title": "Rick and Morty", "image": "img (12).jpg" },
+    { "title": "Family Guy", "image": "img (13).jpg" },
+    { "title": "Dora the Explorer", "image": "img (14).jpg" },
+    { "title": "The Flintstones", "image": "img (15).jpg" },
+    { "title": "Arthur", "image": "img (16).jpg" },
+    { "title": "Powerpuff Girls", "image": "img (17).jpg" },
+    { "title": "Ben 10", "image": "img (18).jpg" },
+    { "title": "South Park", "image": "img (19).jpg" },
+    { "title": "My Little Pony: Friendship Is Magic", "image": "img (20).jpg" }
+  ]

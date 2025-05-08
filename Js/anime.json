@@ -1,0 +1,172 @@
+[
+    {
+        "name": "Naruto",
+        "genre": ["Action", "Adventure"],
+        "picture": "naruto.jpg"
+    },
+    {
+        "name": "Attack on Titan",
+        "genre": ["Action", "Fantasy"],
+        "picture": "attack_on_titan.jpg"
+    },
+    {
+        "name": "One Piece",
+        "genre": ["Action", "Adventure"],
+        "picture": "one_piece.jpg"
+    },
+    {
+        "name": "Death Note",
+        "genre": ["Mystery", "Thriller"],
+        "picture": "death_note.jpg"
+    },
+    {
+        "name": "Dragon Ball Z",
+        "genre": ["Action", "Adventure"],
+        "picture": "dragon_ball_z.jpg"
+    },
+    {
+        "name": "Fullmetal Alchemist: Brotherhood",
+        "genre": ["Action", "Adventure"],
+        "picture": "fullmetal_alchemist_brotherhood.jpg"
+    },
+    {
+        "name": "My Hero Academia",
+        "genre": ["Action", "Super Power"],
+        "picture": "my_hero_academia.jpg"
+    },
+    {
+        "name": "Demon Slayer: Kimetsu no Yaiba",
+        "genre": ["Action", "Supernatural"],
+        "picture": "demon_slayer.jpg"
+    },
+    {
+        "name": "Sword Art Online",
+        "genre": ["Action", "Fantasy"],
+        "picture": "sword_art_online.jpg"
+    },
+    {
+        "name": "Tokyo Ghoul",
+        "genre": ["Action", "Horror"],
+        "picture": "tokyo_ghoul.jpg"
+    },
+    {
+        "name": "Hunter x Hunter",
+        "genre": ["Action", "Adventure"],
+        "picture": "hunter_x_hunter.jpg"
+    },
+    {
+        "name": "One Punch Man",
+        "genre": ["Action", "Comedy"],
+        "picture": "one_punch_man.jpg"
+    },
+    {
+        "name": "Cowboy Bebop",
+        "genre": ["Action", "Sci-Fi"],
+        "picture": "cowboy_bebop.jpg"
+    },
+    {
+        "name": "Steins;Gate",
+        "genre": ["Thriller", "Sci-Fi"],
+        "picture": "steins_gate.jpg"
+    },
+    {
+        "name": "Neon Genesis Evangelion",
+        "genre": ["Action", "Mecha"],
+        "picture": "neon_genesis_evangelion.jpg"
+    },
+    {
+        "name": "Code Geass",
+        "genre": ["Action", "Mecha"],
+        "picture": "code_geass.jpg"
+    },
+    {
+        "name": "Fairy Tail",
+        "genre": ["Action", "Adventure"],
+        "picture": "fairy_tail.jpg"
+    },
+    {
+        "name": "Death Parade",
+        "genre": ["Psychological", "Mystery"],
+        "picture": "death_parade.jpg"
+    },
+    {
+        "name": "Your Lie in April",
+        "genre": ["Drama", "Romance"],
+        "picture": "your_lie_in_april.jpg"
+    },
+    {
+        "name": "Clannad",
+        "genre": ["Drama", "Romance"],
+        "picture": "clannad.jpg"
+    },
+    {
+        "name": "Violet Evergarden",
+        "genre": ["Drama", "Slice of Life"],
+        "picture": "violet_evergarden.jpg"
+    },
+    {
+        "name": "Re:Zero - Starting Life in Another World",
+        "genre": ["Drama", "Fantasy"],
+        "picture": "re_zero.jpg"
+    },
+    {
+        "name": "JoJo's Bizarre Adventure",
+        "genre": ["Action", "Adventure"],
+        "picture": "jojos_bizarre_adventure.jpg"
+    },
+    {
+        "name": "Dragon Ball",
+        "genre": ["Action", "Adventure"],
+        "picture": "dragon_ball.jpg"
+    },
+    {
+        "name": "Bleach",
+        "genre": ["Action", "Supernatural"],
+        "picture": "bleach.jpg"
+    },
+    {
+        "name": "Black Clover",
+        "genre": ["Action", "Magic"],
+        "picture": "black_clover.jpg"
+    },
+    {
+        "name": "Haikyuu!!",
+        "genre": ["Sports", "Drama"],
+        "picture": "haikyuu.jpg"
+    },
+    {
+        "name": "Yuri on Ice",
+        "genre": ["Sports", "Romance"],
+        "picture": "yuri_on_ice.jpg"
+    },
+    {
+        "name": "Kuroko's Basketball",
+        "genre": ["Sports", "Comedy"],
+        "picture": "kurokos_basketball.jpg"
+    },
+    {
+        "name": "Attack on Titan",
+        "genre": ["Action", "Fantasy"],
+        "picture": "attack_on_titan2.jpg"
+    },
+    {
+        "name": "One Piece",
+        "genre": ["Action", "Adventure"],
+        "picture": "one_piece2.jpg"
+    },
+    {
+        "name": "Death Note",
+        "genre": ["Mystery", "Thriller"],
+        "picture": "death_note2.jpg"
+    },
+    {
+        "name": "Dragon Ball Z",
+        "genre": ["Action", "Adventure"],
+        "picture": "dragon_ball_z2.jpg"
+    },
+    {
+        "name": "Fullmetal Alchemist: Brotherhood",
+        "genre": ["Action", "Adventure"],
+        "picture": "fullmetal_alchemist_brotherhood2.jpg"
+    }
+]

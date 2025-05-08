@@ -1,0 +1,486 @@
+[
+    {
+      "image": "img (1).jpg",
+      "title": "Spirited Away",
+      "year": 2001,
+      "rating": 8.6,
+      "genre": "Anime",
+      "info": "A young girl, Chihiro, finds herself trapped in a strange and mysterious world of spirits. She must navigate through this bizarre realm to save her parents and return to the human world."
+    },
+    {
+      "image": "img (2).jpg",
+      "title": "The Godfather",
+      "year": 1972,
+      "rating": 9.2,
+      "genre": "Movies",
+      "info": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+    },
+    {
+      "image": "img (3).jpg",
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "year": 2017,
+      "rating": 9.5,
+      "genre": "Games",
+      "info": "Link wakes up from a deep sleep and finds himself in a mysterious world with no memories. He embarks on an adventure to regain his memories and save Princess Zelda and the kingdom of Hyrule."
+    },
+    {
+      "image": "img (4).jpg",
+      "title": "Avatar: The Last Airbender",
+      "year": 2005,
+      "rating": 9.2,
+      "genre": "Cartoons",
+      "info": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world."
+    },
+    {
+      "image": "img (5).jpg",
+      "title": "Mo Dao Zu Shi",
+      "year": 2018,
+      "rating": 8.8,
+      "genre": "Chinese Anime",
+      "info": "Wei Wuxian, the Yiling Patriarch, seeks revenge against those who wronged him. Alongside Lan Wangji, he uncovers dark secrets and uncanny forces, testing their bond and shaping their destinies."
+    },
+    {
+      "image": "img (6).jpg",
+      "title": "My Neighbor Totoro",
+      "year": 1988,
+      "rating": 8.2,
+      "genre": "Anime",
+      "info": "Two sisters encounter friendly forest spirits in postwar rural Japan. They befriend Totoro, the keeper of the forest, and embark on magical adventures together."
+    },
+    {
+      "image": "img (7).jpg",
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "rating": 9.3,
+      "genre": "Movies",
+      "info": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+    },
+    {
+      "image": "img (8).jpg",
+      "title": "The Witcher 3: Wild Hunt",
+      "year": 2015,
+      "rating": 9.8,
+      "genre": "Games",
+      "info": "Geralt of Rivia, a monster hunter for hire, embarks on an epic journey to track down his adopted daughter and stop the Wild Hunt, a group of otherworldly invaders threatening the world."
+    },
+    {
+      "image": "img (9).jpg",
+      "title": "Adventure Time",
+      "year": 2010,
+      "rating": 8.6,
+      "genre": "Cartoons",
+      "info": "Follow the adventures of Finn, a human boy with a heroic heart, and his best friend Jake, a shape-shifting dog, as they traverse the mystical Land of Ooo and encounter strange creatures and powerful foes."
+    },
+    {
+      "image": "img (10).jpg",
+      "title": "The King's Avatar",
+      "year": 2017,
+      "rating": 8.7,
+      "genre": "Chinese Anime",
+      "info": "Ye Xiu, a top-tier esports player, is forced to retire from his team. He starts anew as a manager at an internet cafe and embarks on a journey to reclaim his title as the best player in the game."
+    },
+    {
+      "image": "img (11).jpg",
+      "title": "Naruto",
+      "year": 2002,
+      "rating": 8.3,
+      "genre": "Anime",
+      "info": "Naruto Uzumaki, an adolescent ninja, seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village."
+    },
+    {
+      "image": "img (12).jpg",
+      "title": "Inception",
+      "year": 2010,
+      "rating": 8.8,
+      "genre": "Movies",
+      "info": "A thief who enters the dreams of others to steal their secrets gets a chance to redeem himself by planting an idea in someone's mind."
+    },
+    {
+      "image": "img (13).jpg",
+      "title": "The Elder Scrolls V: Skyrim",
+      "year": 2011,
+      "rating": 9.4,
+      "genre": "Games",
+      "info": "As the Dragonborn, prophesied hero of Skyrim, you are the only one who can stand against the dragons terrorizing the land. Explore the vast open world, hone your skills, and decide the fate of Tamriel."
+    },
+    {
+      "image": "img (14).jpg",
+      "title": "Avatar: The Last Airbender",
+      "year": 2005,
+      "rating": 9.2,
+      "genre": "Cartoons",
+      "info": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world."
+    },
+    {
+      "image": "img (15).jpg",
+      "title": "The King's Avatar",
+      "year": 2019,
+      "rating": 8.6,
+      "genre": "Chinese Anime",
+      "info": "Ye Xiu, a top-tier esports player, is forced to retire from his team. He starts anew as a manager at an internet cafe and embarks on a journey to reclaim his title as the best player in the game."
+    },
+    {
+      "image": "img (16).jpg",
+      "title": "Death Note",
+      "year": 2006,
+      "rating": 9.0,
+      "genre": "Anime",
+      "info": "Light Yagami, a high school student, gains the power to kill anyone whose name he writes in a mysterious notebook. He sets out to cleanse the world of evil, but his actions attract the attention of a brilliant detective."
+    },
+    {
+      "image": "img (17).jpg",
+      "title": "The Matrix",
+      "year": 1999,
+      "rating": 8.7,
+      "genre": "Movies",
+      "info": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
+    },
+    {
+      "image": "img (18).jpg",
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "year": 1998,
+      "rating": 9.6,
+      "genre": "Games",
+      "info": "As Link, the Hero of Time, you embark on a quest to stop the evil Ganondorf and save the land of Hyrule. Travel through time, solve puzzles, and battle powerful enemies in this timeless classic."
+    },
+    {
+      "image": "img (19).jpg",
+      "title": "Rick and Morty",
+      "year": 2013,
+      "rating": 9.2,
+      "genre": "Cartoons",
+      "info": "Follow the misadventures of an eccentric and alcoholic scientist, Rick Sanchez, and his good-hearted but easily influenced grandson, Morty Smith, as they travel across dimensions and wreak havoc."
+    },
+    {
+      "image": "img (20).jpg",
+      "title": "Scissor Seven",
+      "year": 2018,
+      "rating": 8.4,
+      "genre": "Chinese Anime",
+      "info": "A seemingly clumsy hairdresser named Seven moonlights as a contract killer with a mysterious past. As he takes on various assassination missions, he discovers hidden truths about himself and his purpose."
+    }
+,
+    {
+      "image": "img (21).jpg",
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "year": 2009,
+      "rating": 9.1,
+      "genre": "Anime",
+      "info": "Two brothers, Edward and Alphonse Elric, seek the Philosopher's Stone to restore their bodies after a failed alchemical experiment. Their journey leads them into a world of political intrigue and dark secrets."
+    },
+    {
+      "image": "img (22).jpg",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9.0,
+      "genre": "Movies",
+      "info": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+      "image": "img (23).jpg",
+      "title": "Red Dead Redemption 2",
+      "year": 2018,
+      "rating": 9.7,
+      "genre": "Games",
+      "info": "Arthur Morgan, a member of the Van der Linde gang, faces the decline of the Wild West era while trying to survive against government forces, rival gangs, and his own moral choices."
+    },
+    {
+      "image": "img (24).jpg",
+      "title": "Gravity Falls",
+      "year": 2012,
+      "rating": 8.9,
+      "genre": "Cartoons",
+      "info": "Twins Dipper and Mabel Pines spend the summer with their eccentric Great Uncle Stan in Gravity Falls, Oregon. They encounter supernatural creatures and unravel mysteries in this quirky town."
+    },
+    {
+      "image": "img (25).jpg",
+      "title": "The King's Avatar: For the Glory",
+      "year": 2019,
+      "rating": 8.5,
+      "genre": "Chinese Anime",
+      "info": "This prequel to 'The King's Avatar' follows Ye Xiu's rise to fame as a pro gamer and the founding of the legendary esports team, Excellent Era."
+    },
+    {
+      "image": "img (26).jpg",
+      "title": "Attack on Titan",
+      "year": 2013,
+      "rating": 8.9,
+      "genre": "Anime",
+      "info": "In a world where humanity resides within enormous walled cities to protect themselves from Titans, Eren Yeager joins the military to avenge his mother's death and eradicate the Titans."
+    },
+    {
+      "image": "img (27).jpg",
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "rating": 8.9,
+      "genre": "Movies",
+      "info": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+    },
+    {
+      "image": "img (28).jpg",
+      "title": "The Witcher 3: Wild Hunt - Blood and Wine",
+      "year": 2016,
+      "rating": 9.6,
+      "genre": "Games",
+      "info": "Embark on a new adventure as Geralt of Rivia explores the vibrant and dangerous land of Toussaint, uncovering dark secrets and facing powerful foes in this expansion to 'The Witcher 3: Wild Hunt.'"
+    },
+    {
+      "image": "img (29).jpg",
+      "title": "Adventure Time: Islands",
+      "year": 2017,
+      "rating": 8.7,
+      "genre": "Cartoons",
+      "info": "Join Finn, Jake, and Susan Strong as they embark on a journey to explore the mysterious islands of Ooo and uncover the truth about Finn's past."
+    },
+    {
+      "image": "img (30).jpg",
+      "title": "The King's Avatar: The Awakening of Silver Wings",
+      "year": 2020,
+      "rating": 8.4,
+      "genre": "Chinese Anime",
+      "info": "Ye Xiu and the team at Excellent Era face new challenges as they compete in the Glory Professional Alliance's 10th Season, striving for victory and redemption."
+    },
+    {
+      "image": "img (31).jpg",
+      "title": "Cowboy Bebop",
+      "year": 1998,
+      "rating": 8.9,
+      "genre": "Anime",
+      "info": "Follow the adventures of the bounty hunting crew of the spaceship Bebop as they travel through the galaxy in pursuit of criminals and redemption."
+    },
+    {
+      "image": "img (32).jpg",
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "rating": 9.3,
+      "genre": "Movies",
+      "info": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+    },
+    {
+      "image": "img (33).jpg",
+      "title": "The Legend of Zelda: Majora's Mask",
+      "year": 2000,
+      "rating": 9.4,
+      "genre": "Games",
+      "info": "Link must save the land of Termina from destruction by stopping the moon from crashing into the earth. He has three days to unravel the mysteries of the land and prevent disaster."
+    },
+    {
+      "image": "img (34).jpg",
+      "title": "Rick and Morty",
+      "year": 2013,
+      "rating": 9.2,
+      "genre": "Cartoons",
+      "info": "Follow the misadventures of an eccentric and alcoholic scientist, Rick Sanchez, and his good-hearted but easily influenced grandson, Morty Smith, as they travel across dimensions and wreak havoc."
+    },
+    {
+      "image": "img (35).jpg",
+      "title": "White Cat Legend",
+      "year": 2021,
+      "rating": 8.7,
+      "genre": "Chinese Anime",
+      "info": "A young girl, Ningxiang, encounters a mysterious white cat spirit, Bai Yuechu. Together, they embark on a journey to restore balance to the human and spirit worlds."
+    },
+    {
+      "image": "img (36).jpg",
+      "title": "Death Parade",
+      "year": 2015,
+      "rating": 8.6,
+      "genre": "Anime",
+      "info": "When people die, they are sent to Quindecim, where they must participate in games to determine their fate. Decim, the bartender, judges their souls and sends them either to heaven or hell."
+    },
+    {
+      "image": "img (37).jpg",
+      "title": "Forrest Gump",
+      "year": 1994,
+      "rating": 8.8,
+      "genre": "Movies",
+      "info": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart."
+    },
+    {
+      "image": "img (38).jpg",
+      "title": "The Legend of Zelda: A Link to the Past",
+      "year": 1991,
+      "rating": 9.2,
+      "genre": "Games",
+      "info": "As Link, the hero chosen by the Triforce, you must rescue Princess Zelda and defeat the evil wizard Ganon to restore peace to the land of Hyrule in this classic action-adventure game."
+    },
+    {
+      "image": "img (39).jpg",
+      "title": "Gravity Falls",
+      "year": 2012,
+      "rating": 8.9,
+      "genre": "Cartoons",
+      "info": "Twins Dipper and Mabel Pines spend the summer with their eccentric Great Uncle Stan in Gravity Falls, Oregon. They encounter supernatural creatures and unravel mysteries in this quirky town."
+    },
+    {
+      "image": "img (40).jpg",
+      "title": "The King's Avatar: For the Glory",
+      "year": 2019,
+      "rating": 8.5,
+      "genre": "Chinese Anime",
+      "info": "This prequel to 'The King's Avatar' follows Ye Xiu's rise to fame as a pro gamer and the founding of the legendary esports team, Excellent Era."
+    }
+    ,
+        {
+          "image": "img (21).jpg",
+          "title": "Fullmetal Alchemist: Brotherhood",
+          "year": 2009,
+          "rating": 9.1,
+          "genre": "Anime",
+          "info": "Two brothers, Edward and Alphonse Elric, seek the Philosopher's Stone to restore their bodies after a failed alchemical experiment. Their journey leads them into a world of political intrigue and dark secrets."
+        },
+        {
+          "image": "img (22).jpg",
+          "title": "The Dark Knight",
+          "year": 2008,
+          "rating": 9.0,
+          "genre": "Movies",
+          "info": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+        },
+        {
+          "image": "img (23).jpg",
+          "title": "Red Dead Redemption 2",
+          "year": 2018,
+          "rating": 9.7,
+          "genre": "Games",
+          "info": "Arthur Morgan, a member of the Van der Linde gang, faces the decline of the Wild West era while trying to survive against government forces, rival gangs, and his own moral choices."
+        },
+        {
+          "image": "img (24).jpg",
+          "title": "Gravity Falls",
+          "year": 2012,
+          "rating": 8.9,
+          "genre": "Cartoons",
+          "info": "Twins Dipper and Mabel Pines spend the summer with their eccentric Great Uncle Stan in Gravity Falls, Oregon. They encounter supernatural creatures and unravel mysteries in this quirky town."
+        },
+        {
+          "image": "img (25).jpg",
+          "title": "The King's Avatar: For the Glory",
+          "year": 2019,
+          "rating": 8.5,
+          "genre": "Chinese Anime",
+          "info": "This prequel to 'The King's Avatar' follows Ye Xiu's rise to fame as a pro gamer and the founding of the legendary esports team, Excellent Era."
+        },
+        {
+          "image": "img (26).jpg",
+          "title": "Attack on Titan",
+          "year": 2013,
+          "rating": 8.9,
+          "genre": "Anime",
+          "info": "In a world where humanity resides within enormous walled cities to protect themselves from Titans, Eren Yeager joins the military to avenge his mother's death and eradicate the Titans."
+        },
+        {
+          "image": "img (27).jpg",
+          "title": "Pulp Fiction",
+          "year": 1994,
+          "rating": 8.9,
+          "genre": "Movies",
+          "info": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+        },
+        {
+          "image": "img (28).jpg",
+          "title": "The Witcher 3: Wild Hunt - Blood and Wine",
+          "year": 2016,
+          "rating": 9.6,
+          "genre": "Games",
+          "info": "Embark on a new adventure as Geralt of Rivia explores the vibrant and dangerous land of Toussaint, uncovering dark secrets and facing powerful foes in this expansion to 'The Witcher 3: Wild Hunt.'"
+        },
+        {
+          "image": "img (29).jpg",
+          "title": "Adventure Time: Islands",
+          "year": 2017,
+          "rating": 8.7,
+          "genre": "Cartoons",
+          "info": "Join Finn, Jake, and Susan Strong as they embark on a journey to explore the mysterious islands of Ooo and uncover the truth about Finn's past."
+        },
+        {
+          "image": "img (30).jpg",
+          "title": "The King's Avatar: The Awakening of Silver Wings",
+          "year": 2020,
+          "rating": 8.4,
+          "genre": "Chinese Anime",
+          "info": "Ye Xiu and the team at Excellent Era face new challenges as they compete in the Glory Professional Alliance's 10th Season, striving for victory and redemption."
+        },
+        {
+          "image": "img (31).jpg",
+          "title": "Cowboy Bebop",
+          "year": 1998,
+          "rating": 8.9,
+          "genre": "Anime",
+          "info": "Follow the adventures of the bounty hunting crew of the spaceship Bebop as they travel through the galaxy in pursuit of criminals and redemption."
+        },
+        {
+          "image": "img (32).jpg",
+          "title": "The Shawshank Redemption",
+          "year": 1994,
+          "rating": 9.3,
+          "genre": "Movies",
+          "info": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+        },
+        {
+          "image": "img (33).jpg",
+          "title": "The Legend of Zelda: Majora's Mask",
+          "year": 2000,
+          "rating": 9.4,
+          "genre": "Games",
+          "info": "Link must save the land of Termina from destruction by stopping the moon from crashing into the earth. He has three days to unravel the mysteries of the land and prevent disaster."
+        },
+        {
+          "image": "img (34).jpg",
+          "title": "Rick and Morty",
+          "year": 2013,
+          "rating": 9.2,
+          "genre": "Cartoons",
+          "info": "Follow the misadventures of an eccentric and alcoholic scientist, Rick Sanchez, and his good-hearted but easily influenced grandson, Morty Smith, as they travel across dimensions and wreak havoc."
+        },
+        {
+          "image": "img (35).jpg",
+          "title": "White Cat Legend",
+          "year": 2021,
+          "rating": 8.7,
+          "genre": "Chinese Anime",
+          "info": "A young girl, Ningxiang, encounters a mysterious white cat spirit, Bai Yuechu. Together, they embark on a journey to restore balance to the human and spirit worlds."
+        },
+        {
+          "image": "img (36).jpg",
+          "title": "Death Parade",
+          "year": 2015,
+          "rating": 8.6,
+          "genre": "Anime",
+          "info": "When people die, they are sent to Quindecim, where they must participate in games to determine their fate. Decim, the bartender, judges their souls and sends them either to heaven or hell."
+        },
+        {
+          "image": "img (37).jpg",
+          "title": "Forrest Gump",
+          "year": 1994,
+          "rating": 8.8,
+          "genre": "Movies",
+          "info": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart."
+        },
+        {
+          "image": "img (38).jpg",
+          "title": "The Legend of Zelda: A Link to the Past",
+          "year": 1991,
+          "rating": 9.2,
+          "genre": "Games",
+          "info": "As Link, the hero chosen by the Triforce, you must rescue Princess Zelda and defeat the evil wizard Ganon to restore peace to the land of Hyrule in this classic action-adventure game."
+        },
+        {
+          "image": "img (39).jpg",
+          "title": "Gravity Falls",
+          "year": 2012,
+          "rating": 8.9,
+          "genre": "Cartoons",
+          "info": "Twins Dipper and Mabel Pines spend the summer with their eccentric Great Uncle Stan in Gravity Falls, Oregon. They encounter supernatural creatures and unravel mysteries in this quirky town."
+        },
+        {
+          "image": "img (1).png",
+          "title": "The King's Avatar: For the Glory",
+          "year": 2019,
+          "rating": 8.5,
+          "genre": "Chinese Anime",
+          "info": "This prequel to 'The King's Avatar' follows Ye Xiu's rise to fame as a pro gamer and the founding of the legendary esports team, Excellent Era."
+        }
+      ]
+
+

@@ -1,0 +1,22 @@
+[
+    { "title": "The Shawshank Redemption", "image": "img (1).jpg" },
+    { "title": "The Godfather", "image": "img (2).jpg" },
+    { "title": "The Dark Knight", "image": "img (3).jpg" },
+    { "title": "Schindler's List", "image": "img (4).jpg" },
+    { "title": "Pulp Fiction", "image": "img (5).jpg" },
+    { "title": "The Lord of the Rings: The Return of the King", "image": "img (6).jpg" },
+    { "title": "Forrest Gump", "image": "img (7).jpg" },
+    { "title": "Fight Club", "image": "img (8).jpg" },
+    { "title": "Inception", "image": "img (9).jpg" },
+    { "title": "The Matrix", "image": "img (10).jpg" },
+    { "title": "Goodfellas", "image": "img (11).jpg" },
+    { "title": "The Silence of the Lambs", "image": "img (12).jpg" },
+    { "title": "Saving Private Ryan", "image": "img (13).jpg" },
+    { "title": "The Green Mile", "image": "img (14).jpg" },
+    { "title": "The Lord of the Rings: The Fellowship of the Ring", "image": "img (15).jpg" },
+    { "title": "The Godfather: Part II", "image": "img (16).jpg" },
+    { "title": "Se7en", "image": "img (17).jpg" },
+    { "title": "The Shawshank Redemption", "image": "img (18).jpg" },
+    { "title": "The Lord of the Rings: The Two Towers", "image": "img (19).jpg" },
+    { "title": "The Usual Suspects", "image": "img (20).jpg" }
+  ]
