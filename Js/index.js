@@ -83,7 +83,7 @@ Ongoing();
      const info = dt.map((link)=>{
         return `
         <div key='${link.name}' class="anime_card ">
-        <Img src='/images/${link.image}' src" alt="alt" />
+        <Img src='/Images/${link.image}' src" alt="alt" />
         <h2>${link.title}</h2>
         <small>${link.year}</small>
         </div>
