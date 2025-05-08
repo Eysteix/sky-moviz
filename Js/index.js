@@ -56,7 +56,7 @@ var swiper = new Swiper('.swiper', {
 
      const info = dt.map((link)=>{
         return `
-        <div key='${link.name}' class="on_going_slide swiper-slide" style="background:linear-gradient(to top,rgba(0, 0, 0, 0.854),transparent), url('/Images/${link.image}') center no-repeat ;width:100%;">
+        <div key='${link.name}' class="on_going_slide swiper-slide" style="background:linear-gradient(to top,rgba(0, 0, 0, 0.854),transparent), url('./Images/${link.image}') center no-repeat ;width:100%;">
         <h2>${link.title}</h2>
         <small>${link.year}</small>
         </div>
@@ -83,7 +83,7 @@ Ongoing();
      const info = dt.map((link)=>{
         return `
         <div key='${link.name}' class="anime_card ">
-        <Img src='/Images/${link.image}' src" alt="alt" />
+        <Img src='./Images/${link.image}' src" alt="alt" />
         <h2>${link.title}</h2>
         <small>${link.year}</small>
         </div>
